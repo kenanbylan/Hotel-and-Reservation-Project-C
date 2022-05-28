@@ -1,0 +1,51 @@
+*********************************
+Oda Numarasi:54Musteri Ad-Soyad:KENAN BAYLAN
+Kisi Sayisi:2
+Toplam Total Tutar:2700.00
+Giris Tarihi: 21:6:2021
+Cikis Tarihi: 30:6:2021
+*********************************
+Oda Numarasi:12Musteri Ad-Soyad:Ahmet hakan
+Kisi Sayisi:1
+Toplam Total Tutar:600.00
+Giris Tarihi: 21:3:2021
+Cikis Tarihi: 25:3:2021
+*********************************
+Oda Numarasi:13Musteri Ad-Soyad:cevdet cevitner
+Kisi Sayisi:10
+Toplam Total Tutar:3000.00
+Giris Tarihi: 12:2:2021
+Cikis Tarihi: 14:2:2021
+*********************************
+Oda Numarasi:54Musteri Ad-Soyad:kenan baylan
+Kisi Sayisi:3
+Toplam Total Tutar:1800.00
+Giris Tarihi: 21:3:2021
+Cikis Tarihi: 25:3:2021
+*********************************
+Oda Numarasi:88Musteri Ad-Soyad:ecem ozturk
+Kisi Sayisi:2
+Toplam Total Tutar:2100.00
+Giris Tarihi: 23:5:2021
+Cikis Tarihi: 30:5:2021
+*********************************
+Oda Numarasi:54
+Musteri Ad-Soyad:kenan baylan
+Kisi Sayisi:3
+Toplam Total Tutar:4050.00
+Giris Tarihi: 21:5:2012
+Cikis Tarihi: 30:5:2012
+*********************************
+Oda Numarasi:34
+Musteri Ad-Soyad:keanabyaln ad
+Kisi Sayisi:2
+Toplam Total Tutar:9000.00
+Giris Tarihi: 21:32:30
+Cikis Tarihi: 21:33:30
+*********************************
+Oda Numarasi:34
+Musteri Ad-Soyad:keanabyaln ad
+Kisi Sayisi:2
+Toplam Total Tutar:9000.00
+Giris Tarihi: 21:32:30
+Cikis Tarihi: 21:33:30

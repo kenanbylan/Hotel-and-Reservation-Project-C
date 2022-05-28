@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620235363 source:c:\users\kenan\desktop\otelrezervasyon\otelverezervasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
